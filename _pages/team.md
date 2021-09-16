@@ -13,7 +13,7 @@ permalink: /team/
 ## Team Lead
 
 <div>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/MIAFOTO" class="img-responsive" width="20%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/portrait.JPG" class="img-responsive" width="20%" style="float: left" />
   <h4>Jordi Juárez-Jiménez</h4>
   <i>Lecturer, March 2020 -<br>
   <i>Marie Sklodowska-Curie Fellow, Sep 2015 - Sep 2017<br>email: [jordi.juarez@ub.edu](mailto:jordi.juarez@ub.edu)<br>
