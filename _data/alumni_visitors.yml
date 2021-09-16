@@ -1,6 +1,6 @@
 - name: Alguien
   photo: alguien.jpg
   info: Algo
-  email:
+  email: algo
   number_educ: 1
   education1: Algo
