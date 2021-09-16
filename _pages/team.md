@@ -13,7 +13,7 @@ permalink: /team/
 ## Team Lead
 
 <div>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/portrait.JPG" class="img-responsive" width="20%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/portrait.JPG" class="img-responsive" width="15%" style="float: left" />
   <h4>Jordi Juárez-Jiménez</h4>
   <i>Lecturer, March 2020 -<br>
   <i>Marie Sklodowska-Curie Fellow, Sep 2015 - Sep 2017<br>email: [jordi.juarez@ub.edu](mailto:jordi.juarez@ub.edu)<br>
@@ -164,7 +164,7 @@ permalink: /team/
 
 ### Applications for PhD and Postdoc positions
 
-INFO WILL BE UDPDATED TO THIS WEBSITE SOON. If interested in joining the group, in the meantime you can get in touch [here](mailto:jordi.juarez@ub.edu) 
+INFO WILL BE UDPDATED TO THIS WEBSITE SOON. If you are interested in joining the group in the meantime get in touch [here](mailto:jordi.juarez@ub.edu) 
 
 If there is no specific opening advertise take a look at some of the following opportunities for PhD students:   
  
@@ -179,7 +179,7 @@ Generally if you are looking for postdoc funding, there is a great resource for 
    
 ### Undergraduate student projects
 
-INFO WILL BE UDPDATED TO THIS WEBSITE SOON If interested in joining the group, in the meantime you can get in touch [here](mailto:jordi.juarez@ub.edu)
+INFO WILL BE UDPDATED TO THIS WEBSITE SOON. If you are interested in joining the group in the meantime get in touch [here](mailto:jordi.juarez@ub.edu)
 
 ### Summer student projects
  
