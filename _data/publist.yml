@@ -7,7 +7,7 @@
     display: Biomacromolecules 2021, 22, 2, 430–440
   highlight: 0
   news2: 
-
+  
 - title: "Combining Virtual Reality Visualization with Ensemble Molecular Dynamics to Study Complex Protein Conformational Changes"
   image: xx.png
   description: We describe a framework that combines ensemble MD simulations and virtual reality visualization (eMD-VR) to enable users to interactively generate realistic descriptions of large amplitude, millisecond timescale protein conformational changes. 
@@ -18,7 +18,7 @@
   highlight: 0
   news2: 
   
-  - title: "Investigating Cryptic Binding Sites by Molecular Dynamics Simulations"
+- title: "Investigating Cryptic Binding Sites by Molecular Dynamics Simulations"
   image: xx.png
   description: This Account highlights recent advances and discusses major challenges in investigations of cryptic (hidden) binding sites by molecular simulations. 
   authors: A. Kuzmanic, G.R. Bowman, J. Juárez-Jiménez, J. Michel, F.L. Gervasio
@@ -28,7 +28,7 @@
   highlight: 0
   news2: 
   
-  - title: "Dynamic design: manipulation of millisecond timescale motions on the energy landscape of Cyclophilin A"
+- title: "Dynamic design: manipulation of millisecond timescale motions on the energy landscape of Cyclophilin A"
   image: xx.png
   description: We introduce a novel combination of accelerated MD (aMD) simulations and Markov state modelling (MSM) to explore these ‘excited’ conformational states. 
   authors: J. Juárez-Jiménez, A.A. Gupta, G. Karunanithy, A.S.J.S Mey, C. Georgiou, H. Ioannidis, A. De Simone, P. N. Barlow, A.N. Hulme, M.D. Walkinshaw, A.J. Baldwin, J. Michel
@@ -38,7 +38,7 @@
   highlight: 0
   news2: 
 
-  - title: "A computationally designed binding mode flip leads to a novel class of potent tri-vector cyclophilin inhibitors"
+- title: "A computationally designed binding mode flip leads to a novel class of potent tri-vector cyclophilin inhibitors"
   image: xx.png
   description: A computational approach based on molecular dynamics simulations and free energy calculations was combined with biophysical assays and X-ray crystallography to explore a flip in the binding mode of a reported urea-based Cyp inhibitor. 
   authors:   A. De Simone, C. Georgiou, H. Ioannidis, A.A. Gupta, J. Juárez-Jiménez, D. Doughty-Shenton, E.A. Blackburn, M.A. Wear, J.P. Richards, P.N. Barlow, N. Carragher, M.D. Walkinshaw, A.N. Hulme, J. Michel
@@ -48,7 +48,7 @@
   highlight: 0
   news2: 
   
-  - title: "First homology model of Plasmodium falciparum glucose-6-phosphate dehydrogenase: Discovery of selective substrate analog-based inhibitors as novel antimalarial agents"
+- title: "First homology model of Plasmodium falciparum glucose-6-phosphate dehydrogenase: Discovery of selective substrate analog-based inhibitors as novel antimalarial agents"
   image: xx.png
   description: A key difference in the binding site of Glucose-6-phosphate dehydrogenase between H. Sapiens and P. Falciparum was identified by means of computational simulations and subsequently used to design a novel family of antimalarial agents. 
   authors:   N. Alencar, I. Sola, M. Linares, J. Juárez-Jiménez, C. Pont, A. Viayna, D. Vilchez, C. Sampedro, P. Abad, S. Perez-Benavente, J. Lameira, J.M. Bautista, D. Muñoz-Torrero, F.J. Luque
