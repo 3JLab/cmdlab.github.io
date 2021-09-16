@@ -1,12 +1,12 @@
 ---
-title: "Mey Research Group - Home"
+title: "Computational Molecular Design Lab - Home"
 layout: homelay
-excerpt: "Mey Research Group at Edinburgh University"
+excerpt: "Juarez Research Group at the University of Barcelona"
 sitemap: false
 permalink: /
 ---
 
-We are young and dynamic research group based at the [University of Edinburgh in the School of Chemistry](http://www.chem.ed.ac.uk) that forms part of [EaSt Chem](http://www.chem.ed.ac.uk/research). The research looks at combining data intensive simulation approaches with machine learning to understand protein function and inhibition better, with a particular focus on antimicrobial resistance. 
+We are a research group based at the [Faculty of Pharmacy of the University of Barcelona](https://www.ub.edu/portal/web/farmacia). THIS WEBPAGE IS UNDER CONSTRUCTION, WE WILL UPDATE IT SOON. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
