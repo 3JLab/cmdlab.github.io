@@ -1,20 +1,13 @@
-- name: Matthew Bowley
-  photo: matthew.png
+- name: Someone
+  photo: alguien.png
   info: Chemical (MChem)
   email: 
   number_educ: 1
-  education1: MChem Chemistry, University of Edinburgh, expected completion July 2022
-
-- name: Ryan Zhu
-  photo: ryan.jpg
-  info: Chemistry (BSc Hons)
-  email: 
-  number_educ: 1
-  education1: BSc in Chemistry, University of Edinburgh, expected completion July 2022
+  education1: Something
 
 - name: "This could be you !"
   photo: user.png
   info: See the joining the group section for more info!
-  email: antonia.mey@ed.ac.uk
+  email: jordi.juarez@ub.edu
   number_educ: 0
   education1:
