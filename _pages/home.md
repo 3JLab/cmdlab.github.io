@@ -6,9 +6,13 @@ sitemap: false
 permalink: /
 ---
 
----THIS WEBPAGE IS UNDER CONSTRUCTION, WE WILL UPDATE IT SOON 
+---THIS WEBPAGE IS UNDER CONSTRUCTION, WE WILL UPDATE IT SOON---
+
+
 The Computational Molecular Design Lab is a research group based at the [Faculty of Pharmacy of the University of Barcelona](https://www.ub.edu/portal/web/farmacia). 
---- THIS WEBPAGE IS UNDER CONSTRUCTION, WE WILL UPDATE IT SOON. 
+
+
+--- THIS WEBPAGE IS UNDER CONSTRUCTION, WE WILL UPDATE IT SOON--- 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
@@ -52,7 +56,7 @@ The Computational Molecular Design Lab is a research group based at the [Faculty
 **We are looking for more people to join the group!**
 
 
-Otherwise, for more information and other opportunities on how to join take a look [here]{{ site.url }}{{ site.baseurl }}/team)!
+Otherwise, for more information and other opportunities on how to join take a look here {{ site.url }}{{ site.baseurl }}/team)!
 
 
 We are grateful for funding from the [Ministerio de Ciencia e Innovación](https://www.ciencia.gob.es/site-web/en/) and [Gain Therapeutics](https://www.gaintherapeutics.com/).
