@@ -6,13 +6,10 @@ sitemap: false
 permalink: /
 ---
 
----THIS WEBPAGE IS UNDER CONSTRUCTION, WE WILL UPDATE IT SOON---
-
-
 The Computational Molecular Design Lab is a research group based at the [Faculty of Pharmacy of the University of Barcelona](https://www.ub.edu/portal/web/farmacia). 
 
 
---- THIS WEBPAGE IS UNDER CONSTRUCTION, WE WILL UPDATE IT SOON--- 
+*--- THIS WEBPAGE IS UNDER CONSTRUCTION, STAY TUNNED FOR UPCOMING UPDATES!---* 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
