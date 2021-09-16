@@ -62,7 +62,7 @@ Otherwise, for more information and other opportunities on how to join take a lo
 We are grateful for funding from the [Ministerio de Ciencia e Innovación](https://www.ciencia.gob.es/site-web/en/) and [Gain Therapeutics](https://www.gaintherapeutics.com/).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo UB i Facultat.jpg" style="width: 220px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoUB.jpg" style="width: 220px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/east_chem_logo.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RSC_logo.png" style="width: 150px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cheminF.png" style="width: 110px">
