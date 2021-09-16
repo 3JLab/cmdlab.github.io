@@ -1,7 +1,7 @@
 ---
-title: "Mey Research Group - Outreach"
+title: "Computational Molecular Design Lab - Outreach"
 layout: gridlay
-excerpt: "Mey Resaerch -- Outreach"
+excerpt: "Computational Molecular Design Lab -- Outreach"
 permalink: /outreach/
 ---
 
@@ -48,7 +48,7 @@ Also keep an eye on twitter, and the news section for exciting outreach updates!
 {% endif %}
 
 #### Follow us on Social media:
-[**Twitter**](https://twitter.com/ppxasjsm) and [**Youtube**](https://www.youtube.com/channel/UC3LuLy5zlbsMTww0upJvPRA).
+[**Twitter**](https://twitter.com/jjuarez_jimenez)
 
 ### Publications
 <ol>
@@ -60,21 +60,6 @@ Also keep an eye on twitter, and the news section for exciting outreach updates!
 {% endfor %}
 </ol>
 
-### IMAGINARY Videos
-[IMAGINARY](imaginary.org) is an open source platform for mathematics communication resources. It is a non-profit organisation that started as the mathematics outreach project of the Mathematische Forschungsinstitut Oberwolfach (MFO). We have contributed to their work on a freelance basis. Please get in contact by [email](mailto:antonia.mey@imaginary.org) if you are interested in any kind of mathematics related outreach activities, such as organising an exhibition or school visit etc. 
- 
-My interest in outreach was sparked with a competition for exhibition modules, for which a team consisting of myself, [Guillaume Jouvet](http://people.ee.ethz.ch/~jouvetg/) and Chantalle Landry submitted a film on the mathematics behind glacial movement. Take a look here :
-<p></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eJNIr_0zOyk" frameborder="0" allowfullscreen></iframe>
-<p></p>
-
-We made a follow up for the Youtube Fast Forward science competition, winning the 1st prize for our category on solving an old glacial mystery. 
-
-<p></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cyKb-P3mwDk" frameborder="0" allowfullscreen></iframe>
-<p></p>
-
-As part of the work for IMAGINARY, I have coordinated exhibitions in various countries, such as Romania or Israel and coordinated teacher training sessions for the UNESCO. 
 
 
 
