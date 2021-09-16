@@ -1,20 +1,49 @@
-- title: "PLACEHOLDER"
+- title: "Dual Effect of Prussian Blue Nanoparticles on Aβ40 Aggregation: β-Sheet Fibril Reduction and Copper Dyshomeostasis Regulation"
   image: xx.png
-  description: PLACEHOLDER. 
-  authors:   PLACEHOLDER
+  description: Combining experiments and modelling we explore the mechanism by which Prussian Blue nanoparticles (PBNPs) reduce the formation amyloid-β fibers. 
+  authors: J. Kowalczyk, E. Grapsi, A. Espargaró, A.B. Caballero, J. Juárez-Jiménez, M.A. Busquets, P. Gamez, R. Sabate, J. Estelrich.
   link:
-    url: PLACEHOLDER
-    display: PLACEHOLDER
+    url: https://pubs.acs.org/doi/abs/10.1021/acs.biomac.0c01290
+    display: Biomacromolecules 2021, 22, 2, 430–440
   highlight: 0
   news2: 
 
-- title: "PLACEHOLDER"
+- title: "Combining Virtual Reality Visualization with Ensemble Molecular Dynamics to Study Complex Protein Conformational Changes"
   image: xx.png
-  description: PLACEHOLDER. 
-  authors:   PLACEHOLDER
+  description: We describe a framework that combines ensemble MD simulations and virtual reality visualization (eMD-VR) to enable users to interactively generate realistic descriptions of large amplitude, millisecond timescale protein conformational changes. 
+  authors: J. Juárez-Jiménez, P. Tew, M. O′Connor, S. Llabrés, R. Sage, D. Glowacki, J. Michel
   link:
-    url: PLACEHOLDER
-    display: PLACEHOLDER
+    url: https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c00221
+    display: J. Chem. Inf. Model. 2020, 60, 12, 6344–6354
+  highlight: 0
+  news2: 
+  
+  - title: "Investigating Cryptic Binding Sites by Molecular Dynamics Simulations"
+  image: xx.png
+  description: This Account highlights recent advances and discusses major challenges in investigations of cryptic (hidden) binding sites by molecular simulations. 
+  authors: A. Kuzmanic, G.R. Bowman, J. Juárez-Jiménez, J. Michel, F.L. Gervasio
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/acs.accounts.9b00613
+    display: Acc. Chem. Res. 2020, 53, 3, 654–661
+  highlight: 0
+  news2: 
+  
+    - title: "Dynamic design: manipulation of millisecond timescale motions on the energy landscape of Cyclophilin A"
+  image: xx.png
+  description: We introduce a novel combination of accelerated MD (aMD) simulations and Markov state modelling (MSM) to explore these ‘excited’ conformational states. 
+  authors: J. Juárez-Jiménez, A.A. Gupta, G. Karunanithy, A.S.J.S Mey, C. Georgiou, H. Ioannidis, A. De Simone, P. N. Barlow, A.N. Hulme, M.D. Walkinshaw, A.J. Baldwin, J. Michel
+  link: 
+    url: https://pubs.rsc.org/en/content/articlehtml/2020/sc/c9sc04696h
+    display: Chem. Sci., 2020, 11, 2670-2680
   highlight: 0
   news2: 
 
+    - title: "TBC"
+  image: xx.png
+  description: TBC. 
+  authors:   TBC
+  link:
+    url: TBC
+    display: TBC
+  highlight: 0
+  news2: 
