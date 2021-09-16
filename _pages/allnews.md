@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Mey Research Group at the University of Edinburgh"
+excerpt: "The Computational Molecular Design Lab at the University of Barcerlona"
 sitemap: false
 permalink: /allnews.html
 ---
