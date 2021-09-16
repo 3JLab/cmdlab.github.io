@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "The Computational Molecular Design Lab at the University of Barcerlona"
+excerpt: "The Computational Molecular Design Lab at the University of Barcelona"
 sitemap: false
 permalink: /allnews.html
 ---
