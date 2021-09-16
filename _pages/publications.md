@@ -1,7 +1,7 @@
 ---
-title: "Mey Research Group - Publications"
+title: "Computational Molecular Design Lab - Publications"
 layout: gridlay
-excerpt: "Mey Research Group  Lab -- Publications."
+excerpt: "Computational Molecular Design Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=_NNNlvMAAAAJ&hl=en))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.es/citations?user=hUCtxPwAAAAJ&hl=ca))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
