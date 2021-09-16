@@ -63,8 +63,7 @@ We are grateful for funding from the [Ministerio de Ciencia e Innovación](https
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoUB.jpeg" style="width: 220px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/east_chem_logo.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RSC_logo.png" style="width: 150px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cheminF.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Ministerio.png" style="width: 220px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gain-1.png" style="width: 150px">
 </figure>
 
