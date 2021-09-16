@@ -13,7 +13,7 @@ permalink: /team/
 ## Team Lead
 
 <div>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/me2.jpg" class="img-responsive" width="20%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/MIAFOTO" class="img-responsive" width="20%" style="float: left" />
   <h4>Jordi Juárez-Jiménez</h4>
   <i>Lecturer, March 2020 -<br>
   <i>Marie Sklodowska-Curie Fellow, Sep 2015 - Sep 2017<br>email: [jordi.juarez@ub.edu](mailto:jordi.juarez@ub.edu)<br>
@@ -189,21 +189,21 @@ INFO WILL BE UDPDATED TO THIS WEBSITE SOON If interested in joining the group, i
 
 <div class="col-sm-4 clearfix">
 <h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
+{% for member in site.data.alumni_bsc-TOCHANGE %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
 <h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
+{% for member in site.data.alumni_msc-TOCHANGE %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
 <h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
+{% for member in site.data.alumni_visitors-TOCHANGE %}
 {{ member.name }}
 {% endfor %}
 </div>
