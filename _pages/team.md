@@ -179,31 +179,28 @@ Generally if you are looking for postdoc funding, there is a great resource for 
 INFO WILL BE UDPDATED TO THIS WEBSITE SOON If interested in joining the group, in the meantime you can get in touch [here](mailto:jordi.juarez@ub.edu)
 
 ### Summer student projects
-
-
-### There are no current open positions! 
-
+ 
 
 ## Former visitors, BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
 <h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc-TOCHANGE %}
+{% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
 <h4>Master students</h4>
-{% for member in site.data.alumni_msc-TOCHANGE %}
+{% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
 <h4>Visitors</h4>
-{% for member in site.data.alumni_visitors-TOCHANGE %}
+{% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
 </div>
