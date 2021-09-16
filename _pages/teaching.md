@@ -10,7 +10,7 @@ permalink: /teaching
 
 ## Teaching - SITE UNDER CONSTRUCTION
 
- <img src="{{ site.url }}{{ site.baseurl }}/images/teachpic/teaching.jpg" width="50%" style="float: center" />
+ <img src="{{ site.url }}{{ site.baseurl }}/images/teachpic/teaching-none.jpg" width="50%" style="float: center" />
 
 
 
