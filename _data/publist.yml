@@ -111,7 +111,7 @@
 - title: "Blinded predictions of binding modes and energies of HSP90-α ligands for the 2015 D3R grand challenge"
   image: xx.png
   description: In the framework of the 2015 D3R inaugural grand challenge, blind binding pose and affinity predictions were performed for a set of 180 ligands of the Heat Shock Protein HSP90-α protein, a relevant cancer target.
-  authors: A.S.J.S. Mey*, J. Juárez-Jiménez*, A. Hennessy, J. Michel
+  authors: A.S.J.S. Mey*, J. Juárez-Jiménez*, A. Hennessy, J. Michel (*Shared first authorship)
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S096808961630551X
     display:  Bioorganic Med. Chem. 24 (20) 2016, 4890-4899
@@ -175,7 +175,55 @@
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/jm5005804
     display:  J. Med. Chem. 2014, 57, 13, 5738–5747
+  highlight: 0
+  news2:
+
+- title: "Synthesis and multi-target biological profiling of a novel family of rhein derivatives as disease-modifying anti-Alzheimer agents"
+  image: Hup-rehin.jpg
+  description: We have synthesized, tested and modelled a family of rhein–huprine hybrids to hit several key targets for Alzheimer’s disease.  
+  authors: E. Viayna, I. Sola, M. Bartolini, A. De Simone, C. Tapia-Rojas, F.G. Serrano, R. Sabaté Lagunas, J. Juárez-Jiménez, B. Pérez Fernández, F.J. Luque, V. Andrisano, M. Clos, N.C. Inestrosa, D. Muñoz-Torrero
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/jm401824w
+    display:  J. Med. Chem. 2014, 57, 6, 2549–2567
   highlight: 1
   news2:
 
+- title: "Exploring the structural basis of the selective inhibition of monoamine oxidase A by dicarbonitrile aminoheterocycles: Role of Asn181 and Ile335 validated by spectroscopic and computational studies"
+  image: xx.jpg
+  description: Dicarbonitrile aminofurans were found to be potent, selective inhibitors against MAO A and the key role of Asn181 and Ile335 in the selective inhibition was revealed using Molecular Dynamics simulations  
+  authors: J. Juárez-Jiménez, E. Mendes, C. Galdeano, C. Martins, D.B. Silva, J. Marco-Contelles, M.C. Carreiras, F.J. Luque, R.R. Ramsay
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1570963913003786
+    display:  Biochim. Biophys. Acta Proteins Proteom 1844, 2, 2014 389–397
+  highlight: 0
+  news2:
 
+- title: "1,2,3,4-Tetrahydrobenzo[h][1,6]naphthyridines as a new family of potent peripheral-to-midgorge-site inhibitors of acetylcholinesterase: Synthesis, pharmacological evaluation and mechanistic studies"
+  image: xx.jpg
+  description: Dicarbonitrile aminofurans were found to be potent, selective inhibitors against MAO A and the key role of Asn181 and Ile335 in the selective inhibition was revealed using Molecular Dynamics simulations  
+  authors: O. Di Pietro, E. Viayna, E. Vicente-García, M. Bartolini, R. Ramón, J. Juárez-Jiménez, M.V. Clos, B. Pérez, V. Andrisano, F.J. Luque, R. Lavilla, D. Muñoz-Torrero
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0223523413007952
+    display:  Eur. J. Med. Chem. 73, 2014, 141-152
+  highlight: 0
+  news2:
+
+- title: "Synthesis, Biological Evaluation, and Molecular Modeling of Donepezil and N-[(5-(Benzyloxy)-1-methyl-1H-indol-2-yl)methyl]-N-methylprop-2-yn-1-amine Hybrids as New Multipotent Cholinesterase/Monoamine Oxidase Inhibitors for the Treatment of Alzheimer’s Disease"
+  image: MAOB.png
+  description: A new family of multitarget molecules able to interact with acetylcholinesterase (AChE) and butyrylcholinesterase (BuChE), as well as with monoamino oxidase (MAO) A and B was synthesized, tested and modelled. The results suggest that the new compounds are promising multitarget drug candidates with potential impact for Alzheimer’s disease therapy.   
+  authors: I. Bolea*, J. Juárez-Jiménez*, C. de los Rı́os, M. Chioua, R. Pouplana, F.J. Luque, M. Unzeta, J. Marco-Contelles, A. Samadi (*Shared first authorship)
+  link:
+    url: https://pubs-acs-org.sire.ub.edu/doi/abs/10.1021/jm200853t
+    display:  J. Med. Chem. 2011, 54, 24, 8251–8270
+  highlight: 1
+  news2:
+ 
+- title: "Exploring the size limit of templates for inhibitors of the M2 ion channel of influenza A virus"
+  image: xx.png
+  description:    
+  authors: M.D. Duque, C. Ma, E. Torres, J. Wang, L. Naesens, J. Juárez-Jiménez, P. Camps, F.J. Luque, W.F. DeGrado, R.A. Lamb, L.H. Pinto, S. Vázquez
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/jm101334y
+    display: J. Med. Chem. 2011, 54, 8, 2646–2657
+  highlight: 0
+  news2:
