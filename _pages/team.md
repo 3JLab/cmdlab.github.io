@@ -166,10 +166,9 @@ permalink: /team/
 
 ### Applications for PhD and Postdoc positions
 
-**WE ARE RECRUITING!**
+###**WE ARE RECRUITING!**
 
-We want to incorporate a full-time researcher at the Predoctoral level to work on in silico development of PPI glues. Further details are provided [here] or
-get in touch [here](mailto:jordi.juarez@ub.edu) if you need more information!
+We want to incorporate a full-time researcher at the Predoctoral level to work on in silico development of PPI glues. Further details are provided [here]({{ site.url }}{{ site.baseurl }}/downloads/PREDOC_RESEARCHER.pdf) or get in touch [here](mailto:jordi.juarez@ub.edu) if you need more information!
 
 If there is no specific opening advertise take a look at some of the following opportunities for PhD students:   
 
