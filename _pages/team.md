@@ -21,9 +21,9 @@ permalink: /team/
   <a itemprop="sameAs" content="https://orcid.org/0000-0003-1464-1397" href="https://orcid.org/0000-0003-1464-1397" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-1464-1397</a>
   <ul style="overflow: hidden">
   <li> Graduated in Pharmacy, University of Barcelona </li>
-  <li> PhD University of Barcelona with  <a href="https://PERFIL DE JAVI.html"> Prof. F. Javier Luque</a> </li>
-  <li> Visiting PhD student University of Bologna with  <a href="https://AnDREA.html"> Prof. Andrea Cavalli</a> </li>
-  <li> Postdoc University of Florida with <a href="PERFIL ADRIAN"> Prof. Adrian Roitberg</a> </li>
+  <li> PhD University of Barcelona with  <a href="http://www.ub.edu/cbcg/team/fjluque/"> Prof. F. Javier Luque</a> </li>
+  <li> Visiting PhD student University of Bologna with  <a href="https://www.unibo.it/sitoweb/andrea.cavalli"> Prof. Andrea Cavalli</a> </li>
+  <li> Postdoc University of Florida with <a href="https://roitberg.chem.ufl.edu/"> Prof. Adrian Roitberg</a> </li>
   <li> Postdoc University of Edinburgh with <a href="http://www.julienmichel.net/lab/">Dr. Julien Michel</a> </li>
  </ul>
 
