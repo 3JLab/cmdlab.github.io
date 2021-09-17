@@ -165,22 +165,38 @@ permalink: /team/
 
 ### Applications for PhD and Postdoc positions
 
-INFO WILL BE UDPDATED TO THIS WEBSITE SOON. If you are interested in joining the group in the meantime get in touch [here](mailto:jordi.juarez@ub.edu) 
+**WE ARE RECRUITING!**
+
+We want to incorporate a full-time researcher at the Predoctoral level to work on in silico development of PPI glues. Further details are provided [here] or
+get in touch [here](mailto:jordi.juarez@ub.edu) if you need more information!
 
 If there is no specific opening advertise take a look at some of the following opportunities for PhD students:   
- 
+
+* [FPU fellowships](https://www.educacionyfp.gob.es/servicios-al-ciudadano/catalogo/general/99/998758/ficha/998758-2020.html) from the Ministerio de Ciencia, Innovación y Universidades (In Spanish).
+* [FI fellowships](https://agaur.gencat.cat/en/beques-i-ajuts/convocatories-per-temes/Ajuts-per-a-la-contractacio-de-personal-investigador-novell-FI-2021) from the Generalitat de Catalunya.
+* [PredocsUB fellowships](http://www.ub.edu/beques/3rcicle/PREDOCSUB/index.html) from the University of Barcelona (In Catalan).
+* [FI-SDUR program](http://www.ub.edu/beques/3rcicle/FI-SDUR/index.html) Joint program between the Generalitat de Catalunya and the University of Barcelona
 
 And for Postdocs:   
-* [Marie Curie Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)   
+* [Marie Curie Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) 
+* [Juan de la Cierva formación e Incorporación](http://www.aei.gob.es/portal/site/MICINN/menuitem.dbc68b34d11ccbd5d52ffeb801432ea0/?vgnextoid=5cd919af71af5710VgnVCM1000001d04140aRCRD)(Link in Spanish)
+* [Margarita Salas y Maria Zambrano Fellowships](https://www.universidades.gob.es/portal/site/universidades/menuitem.43f867cc076c14d185cacc2c026041a0/?vgnextoid=0ede5b38feee8710VgnVCM1000001d04140aRCRD&vgnextchannel=cc3cd58bc3350710VgnVCM1000002006140aRCRD) (Link in Spanish)
 
+If you get confused navigating the Spanish system of postdoctoral fellowships (Who could blame you?!) just get in [touch](mailto:jordi.juarez@ub.edu)
 
 Generally if you are looking for postdoc funding, there is a great resource for fellowships/fundinding opportunities around the world:
 [postdoc funding schemes](https://asntech.github.io/postdoc-funding-schemes/)
-
-   
+ 
 ### Undergraduate student projects
 
-INFO WILL BE UDPDATED TO THIS WEBSITE SOON. If you are interested in joining the group in the meantime get in touch [here](mailto:jordi.juarez@ub.edu)
+**We offer 2 Treballs de fi de grau (TFGs) a l'ensenyament  farmacia**
+
+- Exploring the applicability of Alphafold models to drug design
+- Isothermal Titration Calorimetry: Physicochemical principles and applications to drug discovery (Bibliographic)
+
+Information about inscription and admission can be found [here](https://www.ub.edu/portal/web/farmacia/graus/-/ensenyament/detallEnsenyament/483731/15)
+
+If you are a Pharmacy Student at the University of Barcelona and you are interested in developing your own TFG subject just get in [touch](mailto:jordi.juarez@ub.edu)
 
 ### Summer student projects
  
