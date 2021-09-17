@@ -147,3 +147,35 @@
     display:  J. Dairy Sci. 98 (1), 2015, 89-94
   highlight: 0
   news2:
+
+- title: "Assessing the suitability of the multilevel strategy for the conformational analysis of small ligands"
+  image: Multilevel.png
+  description: In this study, we assess the performance of the multilevel strategy for predicting the conformational preferences of a series of structurally related phenylethylamines and streptomycin in aqueous solution. 
+  authors: J. Juárez-Jiménez, X. Barril, M. Orozco, R. Pouplana, F.J. Luque
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/jp506779y
+    display:  J. Phys. Chem. B 2015, 119, 3, 1164–1172
+  highlight: 1
+  news2:
+
+- title: "Tetrahydrobenzo [h][1, 6] naphthyridine-6-chlorotacrine hybrids as a new family of anti-Alzheimer agents targeting β-amyloid, tau, and cholinesterase pathologies"
+  image: xx.png
+  description: Optimization of an essentially inactive 3,4-dihydro-2H-pyrano[3,2-c]quinoline carboxylic ester derivative as acetylcholinesterase (AChE) peripheral anionic site (PAS)-binding motif has resulted in the development of a trimethylene-linked 1,2,3,4-tetrahydrobenzo[h][1,6]naphthyridine–6-chlorotacrine hybrid as a picomolar inhibitor of human AChE (hAChE). 
+  authors: O. Di Pietro, F.J. Pérez-Areales, J. Juárez-Jiménez, A. Espargaró, M.V. Clos, B. Pérez, R. Lavilla, R. Sabaté, F.J. Luque, D. Muñoz-Torrero
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0223523414006278
+    display:  Eur. J. Med. Chem. 84, 2014, 107-117
+  highlight: 0
+  news2:
+
+- title: "Easily accessible polycyclic amines that inhibit the wild-type and amantadine-resistant mutants of the M2 channel of influenza A virus"
+  image: xx.png
+  description: We synthesized and characterized a series of pyrrolidine derivatives designed as analogues of amantadine. Inhibition of the wild-type M2 channel and the A/M2-S31N, A/M2-V27A, and A/M2-L26F mutant forms of the channel were measured in Xenopus oocytes using two-electrode voltage clamp assays and binding to the channels was modelled by means of molecular dynamics simulations. 
+  authors: M. Rey-Carrizo, M. Barniol-Xicota, C. Ma, M. Frigolé-Vivas, E. Torres, L. Naesens, S. Llabrés, J. Juárez-Jiménez, F.J. Luque, W.F. DeGrado, R.A. Lamb, L.H. Pinto, S. Vázquez
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/jm5005804
+    display:  J. Med. Chem. 2014, 57, 13, 5738–5747
+  highlight: 1
+  news2:
+
+
