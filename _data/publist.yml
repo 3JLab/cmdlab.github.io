@@ -107,3 +107,43 @@
     display:  J. Am. Chem. Soc. 2016, 138, 47, 15345–15358
   highlight: 1
   news2:
+  
+- title: "Blinded predictions of binding modes and energies of HSP90-α ligands for the 2015 D3R grand challenge"
+  image: xx.png
+  description: In the framework of the 2015 D3R inaugural grand challenge, blind binding pose and affinity predictions were performed for a set of 180 ligands of the Heat Shock Protein HSP90-α protein, a relevant cancer target.
+  authors: A.S.J.S. Mey*, J. Juárez-Jiménez*, A. Hennessy, J. Michel
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S096808961630551X
+    display:  Bioorganic Med. Chem. 24 (20) 2016, 4890-4899
+  highlight: 0
+  news2:
+  
+- title: "Design, synthesis and biological evaluation of N-methyl-N-[(1, 2, 3-triazol-4-yl) alkyl] propargylamines as novel monoamine oxidase B inhibitors"
+  image: xx.png
+  description: Different azides and alkynes were coupled via Cu-catalyzed 1,3-dipolar Huisgen cycloaddition to afford a novel family of N1- and C5-substituted 1,2,3-triazole derivatives that feature the propargylamine group typical of irreversible MAO-B inhibitors at the C4-side chain of the triazole ring. All the synthesized compounds were evaluated against human MAO-A and MAO-B, identifying some compounds displaying MAO-B selective recognition.
+  authors: O. Di Pietro, N. Alencar, G. Esteban, E. Viayna, N. Szałaj, J. Vázquez, J. Juárez-Jiménez, I.Sola, B. Pérez, M. Solé, M. Unzeta, D. Muñoz-Torrero, F.J. Luque
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0968089616304680
+    display:  Bioorganic Med. Chem. 24 (20) 2016, 4835-4854
+  highlight: 0
+  news2:
+
+- title: "New polycyclic dual inhibitors of the wild type and the V27A mutant M2 channel of the influenza A virus with unexpected binding mode"
+  image: xx.png
+  description: Two new polycyclic scaffolds were synthesized and evaluated as anti-influenza A compounds and its antiviral activity was confirmed in cell culture assays and their binding mode was analysed through molecular dynamics simulations. 
+  authors: M. Rey-Carrizo, S. Gazzarrini, S. Llabrés, M. Frigolé-Vivas, J. Juárez-Jiménez, M. Font-Bardia, L. Naesens, A. Moroni, F.J. Luque, S. Vázquez
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0223523415002895
+    display:  Eur. J. Med. Chem. 146, 2015, 318-329
+  highlight: 0
+  news2:
+
+- title: "The complex of hypericin with β-lactoglobulin has antimicrobial activity with potential applications in dairy industry"
+  image: xx.png
+  description: Using a combination of molecular modeling and spectroscopic experiments, the naturally occurring, pharmacologically active hypericin compound is shown to form a stable complex with the dimeric form of β-lactoglobulin (β-LG) 
+  authors: B. Rodríguez-Amigo, P. Delcanale, G. Rotger, J. Juárez-Jiménez, S. Abbruzzetti, A. Summer, M. Agut, F.J. Luque, S. Nonell, C. Viappiani
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0022030214007887
+    display:  J. Dairy Sci. 98 (1), 2015, 89-94
+  highlight: 0
+  news2:
