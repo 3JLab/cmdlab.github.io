@@ -163,7 +163,7 @@ permalink: /team/
 ### Open Positions
 ## **WE ARE RECRUITING!**
 
-We want to incorporate a full-time researcher at the Predoctoral level to work on in silico development of PPI glues. Further details are provided [here]({{ site.url }}{{ site.baseurl }}/downloads/PREDOC_RESEARCHER.pdf) 
+We want to incorporate a full-time researcher at the Predoctoral level to work on in silico-driven development of PPI glues. Further details are provided [here]({{ site.url }}{{ site.baseurl }}/downloads/PREDOC_RESEARCHER.pdf) 
 
 **Expression of interest:** Please send an email to [Jordi Juarez](mailto:jordi.juarez@ub.edu). 
 
