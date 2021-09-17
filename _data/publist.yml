@@ -41,7 +41,7 @@
 - title: "A computationally designed binding mode flip leads to a novel class of potent tri-vector cyclophilin inhibitors"
   image: xx.png
   description: A computational approach based on molecular dynamics simulations and free energy calculations was combined with biophysical assays and X-ray crystallography to explore a flip in the binding mode of a reported urea-based Cyp inhibitor. 
-  authors:   A. De Simone, C. Georgiou, H. Ioannidis, A.A. Gupta, J. Juárez-Jiménez, D. Doughty-Shenton, E.A. Blackburn, M.A. Wear, J.P. Richards, P.N. Barlow, N. Carragher, M.D. Walkinshaw, A.N. Hulme, J. Michel
+  authors: A. De Simone, C. Georgiou, H. Ioannidis, A.A. Gupta, J. Juárez-Jiménez, D. Doughty-Shenton, E.A. Blackburn, M.A. Wear, J.P. Richards, P.N. Barlow, N. Carragher, M.D. Walkinshaw, A.N. Hulme, J. Michel
   link:
     url: https://pubs.rsc.org/en/content/articlehtml/2019/sc/c8sc03831g
     display:  Chem. Sci., 2019, 10, 542-547
@@ -61,7 +61,7 @@
 - title: "Impact of domain knowledge on blinded predictions of binding energies by alchemical free energy calculations"
   image: xx.png
   description: Within the context of the second D3R Grand Challenge several blinded binding free energies predictions were made for two congeneric series of Farsenoid X Receptor (FXR) inhibitors with a semi-automated alchemical free energy calculation workflow featuring FESetup and SOMD software tools. 
-  authors:   A.S.J.S. Mey, J. Juárez-Jiménez, J. Michel
+  authors: A.S.J.S. Mey, J. Juárez-Jiménez, J. Michel
   link:
     url: https://link.springer.com/article/10.1007/s10822-017-0083-9
     display: J. Comput. Aided Mol. Des. 32, 2018, 199–210 
@@ -71,11 +71,39 @@
 - title: "Tetrahydrobenzothiophene carboxamides: Beyond the kinase domain and into the fatty acid realm"
   image: xx.png
   description: We describe a series of tetrahydrobenzothiophene carboxamides, inspired by structural features present in kinase and SCD1 inhibitors. 
-  authors:   S. Llona-Minguez, S. Fayezi, A. Alihemmati, J. Juárez-Jiménez, F.J. Piedrafita, T. Helleday
+  authors: S. Llona-Minguez, S. Fayezi, A. Alihemmati, J. Juárez-Jiménez, F.J. Piedrafita, T. Helleday
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0960894X17307953
     display: Bioorganic Med. Chem. Lett. 27 (18), 2017, 4462–4466 (2018)
   highlight: 0
   news2:
-  
- 
+
+- title: "Unveiling a novel transient druggable pocket in BACE-1 through molecular simulations: Conformational analysis and binding mode of multisite inhibitors"
+  image: xx.png
+  description: We described the transient formation of a secondary binding site in the BACE-1 catalytic site and assessed its stability and druggability using molecular dynamics and pocket druggability estimations.
+  authors: O. Di Pietro, J. Juarez-Jimenez, D. Munoz-Torrero, C.A. Laughton, F.J. Luque
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177683
+    display: PloS one 12 (5), e0177683
+  highlight: 0
+  news2:
+
+- title: "Tuning the local solvent composition at a drug carrier surface: the effect of dimethyl sulfoxide/water mixture on the photofunctional properties of hypericin–β-lactoglobulin complexes"
+  image: xx.png
+  description: We described the transient formation of a secondary binding site in the BACE-1 catalytic site and assessed its stability and druggability using molecular dynamics and pocket druggability estimations.
+  authors: P. Delcanale, B. Rodríguez-Amigo, J. Juárez-Jiménez, F.J. Luque, S. Abbruzzetti, M. Agut, S. Nonell, C. Viappiani
+  link:
+    url: https://pubs.rsc.org/en/content/articlehtml/2017/tb/c7tb00081b
+    display:  J. Mater. Chem. B, 2017, 5, 1633-1641
+  highlight: 0
+  news2:
+
+- title: "Mechanism of the Pseudoirreversible Binding of Amantadine to the M2 Proton Channel"
+  image: xx.png
+  description: We described the transient formation of a secondary binding site in the BACE-1 catalytic site and assessed its stability and druggability using molecular dynamics and pocket druggability estimations.
+  authors: S. Llabrés^, J. Juárez-Jiménez^, M. Masetti, R. Leiva, S. Vázquez, S. Gazzarrini, A. Moroni, A. Cavalli, F.J. Luque
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/jacs.6b07096
+    display:  J. Am. Chem. Soc. 2016, 138, 47, 15345–15358
+  highlight: 1
+  news2:
