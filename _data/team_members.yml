@@ -1,15 +1,7 @@
-- name: Someone
-  photo: someone.jpg
-  info: Postdoc
-  number_educ: 3
-  education1: PhD in Computational Chemistry, 
-  education2: SM Applied Physics, 
-  education3: MChem Chemistry, 
-
-- name: SOmeone
-  photo: someone.jpg
-  info: Someone
+- name: This could be you !
+  photo: user.jpg
+  info: See the joining the group for more information
   number_educ: 1
-  education1: MPhys Physics
+
 
 
