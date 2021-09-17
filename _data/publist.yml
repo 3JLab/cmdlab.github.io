@@ -9,13 +9,13 @@
   news2: 
   
 - title: "Combining Virtual Reality Visualization with Ensemble Molecular Dynamics to Study Complex Protein Conformational Changes"
-  image: xx.png
+  image: VR.png
   description: We describe a framework that combines ensemble MD simulations and virtual reality visualization (eMD-VR) to enable users to interactively generate realistic descriptions of large amplitude, millisecond timescale protein conformational changes. 
   authors: J. Juárez-Jiménez, P. Tew, M. O′Connor, S. Llabrés, R. Sage, D. Glowacki, J. Michel
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c00221
     display: J. Chem. Inf. Model. 2020, 60, 12, 6344–6354
-  highlight: 0
+  highlight: 1
   news2: 
   
 - title: "Investigating Cryptic Binding Sites by Molecular Dynamics Simulations"
