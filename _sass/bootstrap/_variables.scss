@@ -712,11 +712,11 @@ $panel-border-radius:         $border-radius-base !default;
 $panel-inner-border:          transparent !default;
 $panel-footer-bg:             #1566d1 !default;
 
-$panel-default-text:          #ffffff !default;
+$panel-default-text:          $grey-lighter !default;
 $panel-default-border:        transparent !default;
 $panel-default-heading-bg:    #f7e6f0 !default;
 
-$panel-primary-text:          #ffffff !default;
+$panel-primary-text:          $grey-lighter !default;
 $panel-primary-border:        transparent !default;
 $panel-primary-heading-bg:    $brand-primary !default;
 
