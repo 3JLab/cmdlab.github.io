@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Computational Molecular Design Lab is a research group based at the [Faculty of Pharmacy of the University of Barcelona](https://www.ub.edu/portal/web/farmacia). 
+The Computational Molecular Design Lab is a research group based at the [Faculty of Pharmacy of the University of Barcelona](https://www.ub.edu/portal/web/farmacia). Our focus is to develop and apply computational methods to the discovery of molecular entities of therapeutic interest.  We are members of the [Computational Biology and Drug Design](http://www.ub.edu/cbdd/) consolidated resarch group (2017-SGR1746), together with the [Luque](http://www.ub.edu/cbcg/index.php), [Barril](http://www.ub.edu/bl/), [Curutchet](https://carlescurutchet.wordpress.com/) and [Galdeano](https://www.ub.edu/tpdlab/) labs.
 
 
 *--- THIS WEBPAGE IS UNDER CONSTRUCTION, STAY TUNNED FOR UPCOMING UPDATES!---* 
@@ -50,10 +50,12 @@ The Computational Molecular Design Lab is a research group based at the [Faculty
 </div>
 
 
-**We are looking for more people to join the group!**
+# **We are looking for more people to join the group!**
+
+We are recruiting a full time researcher at the predoctoral level (BSc or MSc). Further details are provided [here]({{ site.url }}{{ site.baseurl }}/downloads/PREDOC_RESEARCHER.pdf) 
 
 
-Otherwise, for more information and other opportunities on how to join take a look here {{ site.url }}{{ site.baseurl }}/team)!
+Otherwise, for other opportunities on how to join take a look [here]({{ site.url }}{{ site.baseurl }}/team)!
 
 
 We are grateful for funding from the [Ministerio de Ciencia e Innovación](https://www.ciencia.gob.es/site-web/en/) and [Gain Therapeutics](https://www.gaintherapeutics.com/).
