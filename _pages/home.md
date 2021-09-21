@@ -52,7 +52,7 @@ The Computational Molecular Design Lab is a research group based at the [Faculty
 
 # **We are looking for more people to join the group!**
 
-We are recruiting a full time researcher at the predoctoral level (BSc or MSc). Further details are provided [here]({{ site.url }}{{ site.baseurl }}/downloads/PREDOC_RESEARCHER.pdf) 
+We are recruiting a full time researcher at the predoctoral level (BSc or MSc). Further details are provided [here]({{ site.url }}{{ site.baseurl }}/downloads/PREDOC_RESEARCHER.pdf) [Oferta en Castellano]({{ site.url }}{{ site.baseurl }}/downloads/INVESTIGADOR_PREDOC.pdf)
 
 
 Otherwise, for other opportunities on how to join take a look [here]({{ site.url }}{{ site.baseurl }}/team)!
